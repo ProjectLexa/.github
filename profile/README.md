@@ -5,9 +5,9 @@ Project Lexa aims to empowers communities to save their endangered languages. Th
 
 
 Project Lexa has 3 parts:
-- [ProjectLexa/project_lexa_android](https://github.com/ProjectLexa/project_lexa_android) :- The Android application for the contributors
-- [ProjectLexa/project_lexa_react](https://github.com/ProjectLexa/project_lexa_react) :- The React Admin Panel for contributors and administrators.
 - [ProjectLexa/project_lexa_nestjs](https://github.com/ProjectLexa/project_lexa_nestjs) :- The NestJs backend for the project.
+- [ProjectLexa/project_lexa_android](https://github.com/ProjectLexa/project_lexa_android) :-(Coming Soon) The Android application for the contributors
+- [ProjectLexa/project_lexa_react](https://github.com/ProjectLexa/project_lexa_react) :- (Coming Soon) The React Admin Panel for contributors and administrators.
 ## How can I Contribute?
 
 We value your participation in this open source project. If you have ideas or suggestions for Project that could benefit the community and make their life easier, please feel free to share them with us in the Issues/Discussion tab.
